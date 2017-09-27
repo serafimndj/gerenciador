@@ -13,8 +13,7 @@ public class Empresa {
     public Empresa(String nome) {
         this.nome = nome;
     }
-    
-    
+
 
     public Empresa(int id, String nome) {
         this.id = id;
